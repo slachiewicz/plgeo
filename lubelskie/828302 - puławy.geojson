@@ -1,4 +1,8 @@
 {
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{
 	"type": "Feature",
 	"properties": {
 		"iip_przest": "PL.PZGIK.200",
@@ -2502,4 +2506,6 @@
 		[703117.88030052802,
 		404411.81514980702]]]
 	}
+}
+]
 }
